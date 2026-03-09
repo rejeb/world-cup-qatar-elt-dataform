@@ -12,4 +12,4 @@ bq load \
   --source_format=NEWLINE_DELIMITED_JSON \
   --autodetect \
   qatar_fifa_world_cup.team_players_stat_raw \
-  gs://mazlum_dev/world_cup_team_stats/input/world_cup_team_players_stats_raw_ndjson.json
+  gs://rbr_dataform_dev/world_cup_team_stats/input/world_cup_team_players_stats_raw_ndjson.json

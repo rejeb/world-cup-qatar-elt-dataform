@@ -27,4 +27,4 @@ SELECT
     nationalTeamKitSponsor,
     nationalTeamJerseyNumber,
     playerDob
-from `qatar_fifa_world_cup_dataform.team_players_stat_raw`
+from `test-dataform-489602`.qatar_fifa_world_cup.team_players_stat_raw
